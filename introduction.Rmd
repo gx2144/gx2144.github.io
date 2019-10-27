@@ -1,0 +1,19 @@
+---
+title: "Guangling Xu, MS"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+- __Name:__ Guangling Xu
+- __Occupation:__ "Student at Columbia University"
+- __Hobbies:__ Traveling; Learning R; Listening to Country music
+
+## My favourite photo while travling.
+
+<img src="image/903A6744C9C8FFA3BAABC50B1E1541E0.jpg" style="width:50%">
+
+## My Resume
+
+<iframe src="gx2144_Resume.pdf" width="100%" height="1000px">
