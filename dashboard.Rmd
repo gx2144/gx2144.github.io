@@ -36,7 +36,7 @@ weather_df =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Tmax and Tmin among Locations
 
 ```{r}
 weather_df %>%
@@ -49,7 +49,7 @@ weather_df %>%
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Tmax Distribution among Locations
 
 ```{r}
 weather_df %>%
@@ -58,7 +58,7 @@ weather_df %>%
    y = ~tmax, color = ~name, type = "box",colors = "Set1")
 ```
 
-### Chart C
+### Count of Locations where Difference between Tmax and Tmin larger than 10 centigrade
 
 ```{r}
 weather_df %>% 
