@@ -1,0 +1,19 @@
+name: "Style Control"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Introduction"
+      href: introduction.html
+    - text: Examples
+      menu:
+      - text: "Dashboard"
+        href: flex.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<gx2144@cumc.columbia.edu.com>
+    - icon: fa-github fa-lg
+      href: https://gx2144.github.io/p8105_hw4_gx2144_to_Jeff/
+output:
+  html_document:
+    theme: cerulean
+    css: style.css
