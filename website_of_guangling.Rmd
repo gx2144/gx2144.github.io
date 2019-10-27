@@ -1,0 +1,24 @@
+---
+title: "Website of Guangling"
+author: "Guangling Xu"
+output: 
+html_document:
+    toc: true
+    toc_float: true
+---
+## This is me while traveling
+<img src="image/73D0A8E0DCC4F061A728C42ACCAD7D4F.jpg" style="width:40%">
+
+## Introduction
+- First-year student at Columbia University majored in Biostatistics.
+- Bachelor of Science in Biology at China University of Geosciences.
+- Beginner in R and SAS.
+
+If you want to learn more about me, my [introduction](introduction.html) is here!
+
+## Contact
+- My email and github address are listed at the right navibar.
+- Feel free to contact with me on [linkedln](https://www.linkedin.com/in/%E5%B9%BF%E8%8F%B1-%E8%AE%B8-362339191/?locale=en_US)
+
+##  Flexdashboard
+- Flexdashboard I created based on NOAA dataset.Click [here](flex.Rmd) to check.
