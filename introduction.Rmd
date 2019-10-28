@@ -15,9 +15,9 @@ output:
 <img src="image/903A6744C9C8FFA3BAABC50B1E1541E0.jpg" style="width:50%">
 
 My Resume
-===========
----------------------------------------------------**GUANGLING XU,MS**-------------------------------------------------------
-
+=====
+---------**GUANGLING XU,MS**---------
+=====
 100 Haven Avenue, New York, New York 10032;
 646-726-3697; gx2144@cumc.columbia.edu
 
