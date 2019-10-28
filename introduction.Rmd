@@ -14,5 +14,65 @@ output:
 
 <img src="image/903A6744C9C8FFA3BAABC50B1E1541E0.jpg" style="width:50%">
 
-## My Resume
+My Resume
+===========
+---------------------------------------------------**GUANGLING XU,MS**-------------------------------------------------------
 
+100 Haven Avenue, New York, New York 10032;
+646-726-3697; gx2144@cumc.columbia.edu
+
+### SUMMARY
+
+Fastidious first-year Biostatistics student with multiple Research Assistant experiences in Biology department. Skilled in managing large volumes of data using R, MS Excel, MS Word.
+
+### EDUCATION
+
+**COLUMBIA UNIVERSITY MAILMAN SCHOOL OF PUBLIC HEALTH, New York, NY**
+
+_Master of Science, Biostatistics/Theory and Method Track_, expected May 2021
+
+* _Relevant Courses:_ Data Science I, Biostatistical Methods, Probability, Principles of Epidemiology, Introduction to Public Health (Online)
+
+*	_Coursera:_ SQL for Data Science, Getting started with SAS Programming
+
+**CHINA UNIVERSITY OF GEOSCIENCES(WUHAN), Hubei, China**
+
+_Bachelor of Science, Biology Science_, June 2019, GPA: 3.79/4.0
+
+* National Scholarship Recipient; Dean's List Honoree [3rd Semester, 2016]
+
+* _Relevant Courses:_ R language and Biostatistics, C Programming, Bioinformatics
+
+* _Coursera:_ Basic Statistics, Inferential Statistics, Bayesian Statistics
+
+###  EXPERIENCE
+
+**CHINA UNIVERSITY OF GEOSCIENCES(WUHAN)**         Hubei, China, 04/2018-05/2018
+
+_Research Assistant, Department of Biology_
+
+* Designed experiment outline and procedure which have not been successfully produced before. Explored experiment methods with a team of 4 people and succeeded after many efforts.
+
+* Analyzed ginkgolide (A, B, C) and bilobalide (BB) data samples by conducting R and Excel which showed significant results and prominent correlation between leaf color and ginkgolide (A, B, C). Reported to professors of the department and certificated by Basic Scientific Research Project.
+
+**CHINA UNIVERSITY OF GEOSCIENCES(WUHAN)**         Hubei, China, 04/2018-05/2018
+
+_Research Coordinator, Department of Environmental Engineering_
+
+* Applied Biology knowledge into Environmental Engineering field and forecasting to break down and utilize information. Successfully conducted experiments to characterize physical and chemical properties of cyanobacteria and algal organic matter in different growth stages to provide references for water management and cyanobacteria production.
+
+* Adhered to standards in all areas, including data collection, lab work, research protocols, data analysis, article writing and regulatory reporting to senior leadership team.
+
+* Successfully published an **SCI** article while got an Excellent Certificate given by College Student Innovation and Entrepreneurship Fund Project.
+
+### PUBLICATION
+
+Zhang，Weijun; Cao, Qingwei, **Xu, Guangling**; Wang, Dongsheng. Flocculation-dewatering Behavior of Microalgae at Different Growth Stages Under Inorganic Polymeric Flocculant Treatment: the Relationships Between Algal Organic Matters (AOM) and Floc Dewaterability [J]. ACS Sustainable Chemistry & Engineering, 2018, 6(8): 11087–11096.
+
+### SKILLS AND CERTIFICATE
+
+**Computer Skills:** Strong knowledge of MS Office (Word, Excel, PowerPoint); and statistical applications, including SAS, R, SQL. Knowledge of Python, C language.
+
+**Language Skills:** English and Chinese.
+
+**Certifications:** HIPAA (patient privacy).
