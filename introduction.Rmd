@@ -8,7 +8,7 @@ output:
 
 - __Name:__ Guangling Xu
 - __Occupation:__ "Student at Columbia University"
-- __Hobbies:__ Traveling; Learning R; Listening to Country music
+- __Hobbies:__ Traveling; Learning R; Listening to music
 
 ## My favourite photo while travling.
 
