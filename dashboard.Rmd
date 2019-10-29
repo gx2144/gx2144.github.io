@@ -39,7 +39,8 @@ Column {data-width=600}
 aislenumber %>%
   mutate(text_label = str_c("count: ", count, "\nrank: ", rank)) %>% plot_ly(
     x = ~aisle, y = ~count, type = "bar", mode = "markers",
-    color = ~aisle, text = ~text_label, alpha = 0.5)
+    color = ~aisle, text = ~text_label, alpha = 0.5) %>% 
+  layout(title = "Aisle Count")
 ```
 
 Column {data-width=400}
@@ -59,9 +60,9 @@ inner_join(instacart, common_aisle, by = "aisle") %>%
   mutate(aisle = fct_reorder(aisle,order_hour_of_day)) %>% 
   plot_ly(
     y = ~order_hour_of_day, color = ~aisle, type = "box",
-    colors = "Set2") 
-  
- 
+    colors = "Set2") %>% 
+  layout(title = "Distribution of the Order Hour of Common Aisles", yaxis = list(title = "Order Hour of the Day"))
+
 ```
 
 ### Count Trend with Order hour of the Day among Top Aisles
@@ -76,7 +77,7 @@ common = inner_join(instacart, common_aisle, by = "aisle") %>%
 common %>% 
   mutate(text_label = str_c("hour: ", order_hour_of_day, '\ncount: ', count)) %>% 
   plot_ly(
-    x = ~order_hour_of_day, y = ~count, color = ~aisle, type = "scatter", text = ~text_label, alpha = 0.8) %>%  
-add_lines(linetype = ~aisle)
+    x = ~order_hour_of_day, y = ~count, color = ~aisle, type = "scatter", mode = "line", text = ~text_label, alpha = 0.8) %>%   layout(title = "Association of Count and Order Hour of Common Aisles", xaxis = list(title = "Order Hour of the Day"))
+ 
 ```
 
