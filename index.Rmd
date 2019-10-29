@@ -7,7 +7,7 @@ html_document:
     toc_float: true
 ---
 ## This is me while traveling
-<img src="image/73D0A8E0DCC4F061A728C42ACCAD7D4F.jpg" style="width:40%">
+<img src="images/20180810_005314356_iOS.jpg" style="width:50%">
 
 ## Introduction
 - First-year student at Columbia University majored in Biostatistics.

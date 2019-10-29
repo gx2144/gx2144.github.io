@@ -11,8 +11,7 @@ output:
 - __Hobbies:__ Traveling; Learning R; Listening to music
 
 ## My favourite photo while travling.
-
-<img src="image/903A6744C9C8FFA3BAABC50B1E1541E0.jpg" style="width:50%">
+<img src="images/20180810_005214889_iOS.jpg" style="width:50%">
 
 My Resume
 =====
