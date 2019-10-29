@@ -1,5 +1,5 @@
 ---
-title: "NOAA National Climatic Data Center"
+title: "Instacart Dataset Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -30,7 +30,7 @@ aislenumber = instacart %>%
 ```
 
 
-Column {data-width=650}
+Column {data-width=600}
 -----------------------------------------------------------------------
 
 ### Aisle Count
@@ -42,8 +42,8 @@ aislenumber %>%
     color = ~aisle, text = ~text_label, alpha = 0.5)
 ```
 
-Column {data-width=350}
------------------------------------------------------------------------
+Column {data-width=400}
+--------------------------------------------------------------------
 
 ### Order Hour of the Day among Top Aisles
 
@@ -64,7 +64,7 @@ inner_join(instacart, common_aisle, by = "aisle") %>%
  
 ```
 
-### Count of Locations where Difference between Tmax and Tmin larger than 10 centigrade
+### Count Trend with Order hour of the Day among Top Aisles
 
 ```{r}
 common = inner_join(instacart, common_aisle, by = "aisle") %>% 
