@@ -13,6 +13,8 @@ navbar:
       href: mailto:<gx2144@cumc.columbia.edu.com>
     - icon: fa-github fa-lg
       href: https://github.com/gx2144/gx2144.github.io
+    - icon: fab fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/%E5%B9%BF%E8%8F%B1-%E8%AE%B8-362339191/?locale=en_US
 output:
   html_document:
     theme: cerulean
