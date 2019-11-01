@@ -7,7 +7,7 @@ navbar:
       href: introduction.html
     - text: Examples
       menu:
-      - text: "Dashboard"
+      - text: "Flexdashboard"
         href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<gx2144@cumc.columbia.edu.com>

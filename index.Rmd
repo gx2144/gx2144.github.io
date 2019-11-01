@@ -21,4 +21,4 @@ If you want to learn more about me, my [introduction](introduction.html) is here
 - Feel free to contact with me on [linkedln](https://www.linkedin.com/in/%E5%B9%BF%E8%8F%B1-%E8%AE%B8-362339191/?locale=en_US)
 
 ##  Flexdashboard
-- Flexdashboard I created based on instacart dataset.Click [here](dashboard.html) to check.
+- Flexdashboard was created based on instacart dataset.Click [here](dashboard.html) to check.
